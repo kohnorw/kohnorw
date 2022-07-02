@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, Python, PowerShell, and HTML/CSS**
 
-- 📫 How to reach me **kohnor.wrzosek@gmail.com**
+- 📫 How to reach me **contact@kohnor.ca**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yzelS5P7w4ZSVvRCKmeQ8wKxdqvzYyiQ/view?usp=sharing](https://drive.google.com/file/d/1yzelS5P7w4ZSVvRCKmeQ8wKxdqvzYyiQ/view?usp=sharing)
 
