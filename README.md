@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kohnor Wrzosek</h1>
+<h1 align="center">Hi 👋, I'm Kohnor</h1>
 <h3 align="center">A passionate developer who loves making fun projects and solving problems.</h3>
 
 - 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [www.kohnor.ca](www.kohnor.ca)
 
 - 💬 Ask me about **C#, Python, PowerShell, and HTML/CSS**
 
