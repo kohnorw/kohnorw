@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **contact@kohnor.ca**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yzelS5P7w4ZSVvRCKmeQ8wKxdqvzYyiQ/view?usp=sharing](https://drive.google.com/file/d/1yzelS5P7w4ZSVvRCKmeQ8wKxdqvzYyiQ/view?usp=sharing)
-
 - ⚡ Fun fact **I love anything Technology/Videography/Photography related**
 
 <h3 align="left">Connect with me:</h3>
